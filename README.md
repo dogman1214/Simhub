@@ -16,9 +16,9 @@ This was made in FreeCAD.
 # PCB
 This is the PCB, it was designed in KiCad.
 
-![Schematic](assets/schematic.jpg)
+Schematic ![Schematic](assets/schematic.jpg)
 
-![PCB](assets/pcb.jpg)
+PCB ![PCB](assets/pcb.jpg)
 
 # Firmware
 This hackpad uses QMK firmware for everything.
