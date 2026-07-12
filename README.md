@@ -24,5 +24,6 @@ PCB ![PCB](assets/pcb.jpg)
 This hackpad uses QMK firmware for everything.
 Since it was designed with video-game assistance in mind, you have to map all the keys in-game to use them.
 
-*This keyboard has two modes*
+*This keyboard has two modes.*
+
 To swap between custom in-game keyboard usage and a normal numpad style keyboard, click down on the rotary encoder.
