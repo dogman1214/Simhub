@@ -11,7 +11,8 @@ A custom-designed macropad for my sim-racing use, and for general purpose as wel
 Everything is secured in place with 3 M3 screws and bolts, with the bolts serving a dual purpose as the base legs. The case is to be 3d-printed, along with the knob for the rotary encoder.
 
 ![CAD](assets/cad.jpg)
-This was made in FreeCAD.
+The render was made in Blender
+The model was made in FreeCAD.
 
 # PCB
 This is the PCB, it was designed in KiCad.
