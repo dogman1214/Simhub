@@ -8,7 +8,7 @@ A custom-designed macropad for my sim-racing use, and for general purpose as wel
 * USB-C connectivity
 # CAD Model:
 
-Everything is secured in place with 3 M3 screws and bolts, with the bolts serving a dual purpose as the base legs. The case is to be 3d-printed, along with the knob for the rotary encoder.
+Everything is secured in place with 4 M3 screws and bolts, with the bolts serving a dual purpose as the base legs. The case is to be 3d-printed, along with the knob for the rotary encoder.
 
 ![CAD](assets/cad.jpg)
 The render was made in Blender
