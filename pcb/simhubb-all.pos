@@ -1,0 +1,20 @@
+### Footprint positions - created on 2026-07-01T18:21:54 ###
+### Printed by KiCad version 10.0.4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                    Package                                              PosX       PosY       Rot  Side
+U1        MOUDLE-SEEEDUINO-XIAO  XIAO-Generic-Hybrid-14P-2.54-21X17.8MM            11.6105    47.7880  180.0000  bottom
+SW1       SW_Push                SW_Cherry_MX_1.00u_PCB                            34.5850    54.0800    0.0000  top
+SW2       SW_Push                SW_Cherry_MX_1.00u_PCB                            34.5850    34.9450    0.0000  top
+SW3       SW_Push                SW_Cherry_MX_1.00u_PCB                            34.5850    15.5800    0.0000  top
+SW4       SW_Push                SW_Cherry_MX_1.00u_PCB                            54.0400    54.0800    0.0000  top
+SW5       SW_Push                SW_Cherry_MX_1.00u_PCB                            54.0400    34.9450    0.0000  top
+SW6       SW_Push                SW_Cherry_MX_1.00u_PCB                            54.0400    15.5800    0.0000  top
+SW7       SW_Push                SW_Cherry_MX_1.00u_PCB                            73.0400    54.0800    0.0000  top
+SW8       SW_Push                SW_Cherry_MX_1.00u_PCB                            73.0400    34.9450    0.0000  top
+SW9       SW_Push                SW_Cherry_MX_1.00u_PCB                            73.0400    15.5800    0.0000  top
+SW10      SW_Push                SW_Cherry_MX_1.00u_PCB                            92.0400    54.0800    0.0000  top
+SW11      SW_Push                SW_Cherry_MX_1.00u_PCB                            92.0400    34.9450    0.0000  top
+SW12      SW_Push                SW_Cherry_MX_1.00u_PCB                            92.0400    15.5800    0.0000  top
+SW17      RotaryEncoder_Switch   RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm     3.7500    27.0000    0.0000  top
+## End
