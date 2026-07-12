@@ -5,10 +5,14 @@ A custom 12-key handwired macropad with a rotary encoder powered by a Seeed XIAO
 * Hardware Availability: https://hackpad.hackclub.com/
 
 Make example for this keyboard, after setting up the build environment:
-`make Simhub:default`
+```
+make Simhub:default
+```
 
 Flashing example for this keyboard:
-`make Simhub:default:flash`
+```
+make Simhub:default:flash
+```
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.
 
