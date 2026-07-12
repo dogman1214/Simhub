@@ -10,19 +10,20 @@ A custom-designed macropad for my sim-racing use, and for general purpose as wel
 
 Everything is secured in place with 3 M3 screws and bolts, with the bolts serving a dual purpose as the base legs. The case is to be 3d-printed, along with the knob for the rotary encoder.
 
-<img width="3840" height="2160" alt="final" src="https://github.com/user-attachments/assets/13766f8c-dcfc-4fca-ae70-3669c68b9ff7" />
-
+![CAD](assets/cad.jpg)
 This was made in FreeCAD.
 
 # PCB
-# IMPORTANT
-# IMPORT PCB IMAGE
-# HAVE TO STILL DESIGN SILKSCREEN
-The PCB was designed in KiCad.
+This is the PCB, it was designed in KiCad.
 
-### Schematic
+Schematic ![Schematic](assets/schematic.jpg)
 
-### PCB
+PCB ![PCB](assets/pcb.jpg)
 
 # Firmware
-use QMK
+This hackpad uses QMK firmware for everything.
+Since it was designed with video-game assistance in mind, you have to map all the keys in-game to use them.
+
+*This keyboard has two modes.*
+
+To swap between custom in-game keyboard usage and a normal numpad style keyboard, click down on the rotary encoder.
