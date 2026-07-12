@@ -37,4 +37,5 @@ This is eveyrthing you need to make this macropad:
 * 1x EC11 Rotary Encoder
 * 1x XIAO RP2040
 * 1x Case (3 printed parts)
+
 I hope you like this project/macropad!
