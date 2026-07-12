@@ -28,3 +28,13 @@ Since it was designed with video-game assistance in mind, you have to map all th
 *This keyboard has two modes.*
 
 To swap between custom in-game keyboard usage and a normal numpad style keyboard, click down on the rotary encoder.
+
+# BOM:
+This is eveyrthing you need to make this macropad:
+* 12x Cherry MX Switches
+* 12x DSA Keycaps
+* 4x M3x16mm nuts and bolts
+* 1x EC11 Rotary Encoder
+* 1x XIAO RP2040
+* 1x Case (3 printed parts)
+I hope you like this project/macropad!
