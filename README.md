@@ -29,6 +29,9 @@ Since it was designed with video-game assistance in mind, you have to map all th
 
 To swap between custom in-game keyboard usage and a normal numpad style keyboard, click down on the rotary encoder.
 
+
+#Be aware: This Bill of Materials is what is expected to be bought & used. I haven't built the macropad yet.
+
 ### BOM:
 This is eveyrthing you need to make this macropad:
 * 12x Cherry MX Switches
