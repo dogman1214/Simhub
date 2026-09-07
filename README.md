@@ -1,5 +1,6 @@
 # Simhub
-A custom-designed macropad for my sim-racing use, and for general purpose as well.
+A custom-designed macropad design for my sim-racing use, and for general purpose as well.
+This isn't physical at the moment, but rather a design you use to build your own macropad!
 
 # Features:
 * 3D - printed custom case
