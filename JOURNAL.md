@@ -93,3 +93,7 @@ Thanks a lot guys, this mission really taught me well about CAD and PCB design. 
 
 **Total time spent: 0.15 hours**
 
+# 9/16/2026: Alr everything set up and ready to go!
+<img width="1504" height="1040" alt="image" src="https://github.com/user-attachments/assets/1764acb7-d4c6-44aa-910e-aec670527702" />
+
+**Total time spent: 0.5 hours**
