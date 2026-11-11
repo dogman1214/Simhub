@@ -93,7 +93,7 @@ Thanks a lot guys, this mission really taught me well about CAD and PCB design. 
 
 **Total time spent: 0.15 hours**
 
-# 9/16/2026: Alr everything set up and ready to go!a
+# 9/16/2026: Alr everything set up and ready to go!
 the journal is set up. The main problem is hackatime timing. The problem is that in lapse nothing is ordered, so IDK which vbideo goes to which, which could be partly my fault, but I logged all that on ahckatime, so IDK man. Heres my account if yall need it: https://lapse.hackclub.com/user/@raghavsharma1214
 <img width="1504" height="1040" alt="image" src="https://github.com/user-attachments/assets/1764acb7-d4c6-44aa-910e-aec670527702" />
 
