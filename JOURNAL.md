@@ -32,6 +32,7 @@ Now onto the CAD portion of this project.
 
 # 6/18/2026: fusion GENIUNELY TRASH
 Trying to fix FUSION. I have ZERO IDEA why fusion isn’t working, just a blank screen. Tried all fixes on the web, but to no avail. Anyone here please help
+Along side that I was just setting up mental models of what the model should be like. Sketching things out on a notepad. I want it to be very simple and stuff, maybe translucent. Also pored over the KiCad PCB vs Schematic, ran ERC, DRC, and everything
 <img width="1382" height="900" alt="image" src="https://github.com/user-attachments/assets/e79eee9d-1527-4e1e-99ef-f17844d62127" />
 
 **Total time spent: 2.1 hours**
